@@ -1,0 +1,17 @@
+{
+    "XUN" : "//input[@name='txtUserName']",
+    "XPWD" : "//input[@type='password']",
+    "XSUB" : "//input[@value='Login']",
+    "XPIM" : "li#pim",
+    "XADDEMP" : "//span[text()='Add Employee']",
+    "XFRAME" :"iframe#rightMenu",
+    "XEMP": "input#txtEmployeeId",
+    "XFIRST" : "input#txtEmpFirstName",
+    "XLAST" : "input#txtEmpLastName",
+    "XMID" : "input#txtEmpMiddleName",
+    "XNICK" : "input#txtEmpNickName",
+    "XPHOTO" :"input#photofile",
+    "XSAVE" : "input#btnEdit",
+    "XBACK" :"input.backbutton"
+    
+}
